@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dangerous Toy Tank
+* source:	https://sketchfab.com/3d-models/dangerous-toy-tank-7702919ae37448cd828a16a99497fd1a
+* author:	Baptiste.Barbe (https://sketchfab.com/Baptiste.Barbe)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dangerous Toy Tank" (https://sketchfab.com/3d-models/dangerous-toy-tank-7702919ae37448cd828a16a99497fd1a) by Baptiste.Barbe (https://sketchfab.com/Baptiste.Barbe) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
